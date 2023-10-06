@@ -45,6 +45,7 @@ Node *LCAinBSTI(Node* root, int p, int q) {
 		}
 	}
 	return NULL;
+	
 }
 
 int main() {
